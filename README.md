@@ -5,7 +5,7 @@ Telegram-bots, kas atrisina iedotas matemātikas problēmas un uzdevumus
 --------------------------------------------------------------------------------------------------------------------------------------------------
 Projekta sastāvdaļas:
 1. Funkcionējoša Telegram-bota izveide;
-2. Bilžu atpazīšana (PyTorch CNN);
+2. Bilžu atpazīšana (CNN);
 3. Uzdevuma satura atpazīšana;
 4. Nepieciešama atrisinājuma izvēlēšanas;
 5. Rezultātu atgreišana un uzglabāšana.
@@ -19,7 +19,7 @@ A Telegram bot that solves given maths equations and problems.
 --------------------------------------------------------------------------------------------------------------------------------------------------
 The project consists of following components:
 1. Creating a functioning Telegram-bot;
-2. Image recognition from the user (PyTorch CNN);
+2. Image recognition from the user (CNN);
 3. Detecting content and type of equation;
 4. Finding relative solution;
 5. Storing results in a separate chat and sending it to user;
