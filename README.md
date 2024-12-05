@@ -27,3 +27,5 @@ The project consists of following components:
 1. Time Limit - Project is developed in the period between December 2024 and May 2025.
 2. Memory Limit - Only limit is the limit of Telegram chat storage, which likely won't cause any problems.
 3. Device Limit - Available almost on all devices which support Telegram or Telegram Web.
+--------------------------------------------------------------------------------------------------------------------------------------------------
+Version document / versiju dokuments: https://docs.google.com/document/d/1fssTP203BgSVUqvZdM4qiQk5ApNiHlxytIT4N2P2kXw/edit?usp=sharing
